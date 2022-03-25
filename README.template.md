@@ -37,7 +37,7 @@ My name is Bongumusa Mavuso and I'm a software developer/Data Analyst. I'm from 
 - ![Pandas](https://img.shields.io/badge/Frameworks-Pandas-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 
-###📓 Now Learning
+### 📓 Now Learning
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 
@@ -54,7 +54,6 @@ I spend my free time participating in competitive programming competitions as a 
 
 ## &#x1f4c8; GitHub Stats
 
-[![Cogetas GitHub stats](https://github-readme-stats.vercel.app/api?username=BongumusaSizwe&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Cogetas GitHub stats](https://github-readme-stats.vercel.app/api?username=BongumusaSizwe&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BongumusaSizwe&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BongumusaSizwe&hide=jupyter%20notebook,html&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
