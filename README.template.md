@@ -1,4 +1,4 @@
-[![Header](./assets/header.svg)](https://github.com/BongumusaSizwe)
+[![Header](./assets/header.png)](https://github.com/BongumusaSizwe)
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BongumusaSizwe)
@@ -31,8 +31,8 @@ My name is Bongumusa Mavuso and I'm a software developer/Data Analyst. I'm from 
 ### &#x270d; Machine Learning and Data Analytics Tools
 - ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 - ![Pytorch](https://img.shields.io/badge/Code-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
-- [CV2](https://img.shields.io/badge/Framerorks-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![CV2](https://img.shields.io/badge/Framerorks-CV2-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+- ![Tensorflow](https://img.shields.io/badge/Framerorks-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+- ![CV2](https://img.shields.io/badge/Framerorks-CV2-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 - ![Statsmodels](https://img.shields.io/badge/Frameworks-Statsmodels-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 - ![Pandas](https://img.shields.io/badge/Frameworks-Pandas-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
@@ -46,12 +46,15 @@ My name is Bongumusa Mavuso and I'm a software developer/Data Analyst. I'm from 
 I spend my free time participating in competitive programming competitions as a way of keeping up with the tech trends and keeping my skills onpoint!
 
 - Programming Competitions
-    -- [Topcoder](https://topcoder.com/profile/cogeta)
-    -- [Codeforces](https://codeforces.com/profile/Cogeta)
+    - [Topcoder](https://topcoder.com/profile/cogeta)
+    - [Codeforces](https://codeforces.com/profile/Cogeta)
 - Data Science
     - [Zindi](https://zindi.africa/users/cogeta)
     - [Kaggle](kaggle.com/bongumusa/)
 
 ## &#x1f4c8; GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BongumusaSizwe)](https://github.com/anuraghazra/github-readme-stats)
+[![Cogetas GitHub stats](https://github-readme-stats.vercel.app/api?username=BongumusaSizwe&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BongumusaSizwe&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
