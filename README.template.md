@@ -56,4 +56,4 @@ I spend my free time participating in competitive programming competitions as a 
 
 [![Cogetas GitHub stats](https://github-readme-stats.vercel.app/api?username=BongumusaSizwe&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BongumusaSizwe&hide=jupyter%20notebook,html&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BongumusaSizwe&hide=jupyter%20notebook,html,css,scss&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
