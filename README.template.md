@@ -7,7 +7,7 @@
 
 # Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Bongumusa Mavuso and I'm a software developer/Data Analyst. I'm from South Africa and currently volunteering at a local NPO. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Bongumusa Mavuso and I'm a software developer/Data Analyst. I'm from South Africa and currently volunteering at a local NPO.
 
 
 ## 🔧 Technologies & Tools
