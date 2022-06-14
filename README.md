@@ -46,11 +46,11 @@ My name is Bongumusa Mavuso and I'm a software developer/Data Analyst. I'm from 
 I spend my free time participating in competitive programming competitions as a way of keeping up with the tech trends and keeping my skills onpoint!
 
 - Programming Competitions
-    - [Topcoder](https://topcoder.com/profile/cogeta)
+    - [Topcoder](https://topcoder.com/members/cogeta)
     - [Codeforces](https://codeforces.com/profile/Cogeta)
 - Data Science
     - [Zindi](https://zindi.africa/users/cogeta)
-    - [Kaggle](kaggle.com/bongumusa/)
+    - [Kaggle](https://kaggle.com/bongumusa/)
 
 ## &#x1f4c8; GitHub Stats
 
